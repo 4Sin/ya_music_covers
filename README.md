@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artificialintelligencezone.com%2Fbert%2F&psig=AOvVaw2xfiJ-x8KDE8Ii9Ft9ZiUy&ust=1699881206669000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjx3P7EvoIDFQAAAAAdAAAAABAE" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg" title="BRT" alt="BERT" height="40"/>&nbsp;
   <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png" title="Scikit learn" alt="Scikit learn" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" height="40"/>&nbsp;
   <img src="https://pypi-camo.global.ssl.fastly.net/d60a70af6de88eae24a88d3c21d81adbfb7d3b6c/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667" title="Transformers" alt="Transformers" height="40"/>&nbsp;
